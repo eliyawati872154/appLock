@@ -1,7 +1,7 @@
 {
-"testlogin1": {
+"testloginAja": {
    "password": "$2y$12$nSw5O0juqlGIHT6exCf2e.92J2c7jIAV/jOhEz7L4Vbetpqu24Xf6",
-   "devices": ["REDMINOTE9PRO47B0140E2D497C6A"],
+   "devices": ["REDMINOTE9PRO47B097C6A"],
    "expiry": "15-09-2025 12:00 PM"
 },
 }
